@@ -9,6 +9,6 @@ It is a simple snake game written in C using the ncurses library.
 *./a.out*
 
 ### some screens:
-![alt text](https://github.com/schier-jonasz/cnake/tree/main/screens/game.png "running game")
+![alt text](https://github.com/schier-jonasz/cnake/blob/main/screens/game.png "running game")
 
-![alt text](https://github.com/schier-jonasz/cnake/tree/main/screens/scores.png "scores")
+![alt text](https://github.com/schier-jonasz/cnake/blob/main/screens/scores.png "scores")
