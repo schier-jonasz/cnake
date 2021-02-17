@@ -1,0 +1,10 @@
+Jon;4
+Ola;6
+Krzysiu;1
+Olcia;3
+Joneq;1
+Basia;4
+kasia;2
+Hello;3
+Krzysztof;1
+Mati;4
